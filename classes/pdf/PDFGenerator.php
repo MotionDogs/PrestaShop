@@ -189,7 +189,8 @@ class PDFGeneratorCore extends TCPDF
             $output = 'I';
         }
 
-        return $this->output($filename, $output);
+        //return $this->output($filename, $output);
+		return $this->output($filename, 'I');
     }
 
     /**
