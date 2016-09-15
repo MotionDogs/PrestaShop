@@ -368,10 +368,14 @@ class CartRuleCore extends ObjectModel
                             WHERE crc.id_cart_rule = '.(int)$cart_rule['id_cart_rule'].'
                             AND crc.id_country = '.(int)$country['id_country']);
                         if ($id_cart_rule) {
-                            $result[$id_cart_rule] = $result_bak[$key];
+                            $result[] = $result_bak[$key];
+                            break;
                         }
                     }
                 }
+            }
+            else {
+                $result[] = $result_bak[$key];
             }
         }
 
@@ -985,7 +989,9 @@ class CartRuleCore extends ObjectModel
                             || in_array($product['id_product'].'-0', $selected_products)) {
                             $price = $product['price'];
                             if ($use_tax) {
-                                $price *= (1 + $context->cart->getAverageProductsTaxRate());
+                                $infos = Product::getTaxesInformations($product, $context);
+                                $tax_rate = $infos['rate'] / 100;
+                                $price *= (1 + $tax_rate);
                             }
 
                             $selected_products_reduction += $price * $product['cart_quantity'];

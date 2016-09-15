@@ -13,6 +13,7 @@ GitHub contributors:
 - Alexander Grosul
 - Alexander Otchenashev
 - Alexandra Even
+- Alexandre Segura
 - AlexEven
 - Alexey Svistunov
 - alexey-svistunov
@@ -84,6 +85,7 @@ GitHub contributors:
 - David Gasperoni
 - David Sivocha
 - David-Julian BUCH
+- Davide
 - Davy Rolink
 - Denver Prophit Jr.
 - Desbouche Christophe
@@ -136,6 +138,7 @@ GitHub contributors:
 - Gabriel Schwardy
 - Gaelle ITZKOVITZ
 - Gamesh
+- Geoffray
 - ggedamed
 - Giant Leap Lab
 - Gordon Coubrough
@@ -156,6 +159,8 @@ GitHub contributors:
 - harelguy
 - hiousi
 - htrex
+- Ian Fung
+- idnovate
 - indesign47
 - iNem0o
 - ironwo0d
@@ -164,8 +169,9 @@ GitHub contributors:
 - ivancasasempere
 - J. Danse
 - janisVincent
+- Jaume
 - Javsmile
-- JEAN
+- jean
 - jeanbe
 - jeckyl
 - Jeroen Dewaele
@@ -203,6 +209,7 @@ GitHub contributors:
 - Krystian Podemski
 - Kevin Dunglas
 - Ladel
+- Lars Hallqvist
 - ldecoker
 - Lesley Paone
 - LOIC ROSSET ltd
@@ -230,6 +237,7 @@ GitHub contributors:
 - Mats Rynge
 - Matteo
 - MatthieuB
+- matthieume
 - MaX3315
 - Maxence
 - Maxime
@@ -257,6 +265,7 @@ GitHub contributors:
 - natrim
 - neemzy
 - nezenmoins
+- Nicolas Martin
 - Nicolas Sorosac
 - Niklas Ekman
 - Niko Wicaksono
@@ -265,6 +274,7 @@ GitHub contributors:
 - Nino Uzelac
 - nodexpl
 - nturato
+- okom3pom
 - oleacorner
 - Otto Nascarella
 - Pan P
@@ -283,6 +293,7 @@ GitHub contributors:
 - Petyuska
 - PhpMadman
 - Pierre
+- Pierre-Olivier Vares
 - Piotr Kaczor
 - Piotr Moćko
 - Presta Module
@@ -304,6 +315,7 @@ GitHub contributors:
 - Quetzacoalt91
 - Racochejl
 - Rafael Cunha
+- raphael-homann
 - Raphael Droz
 - Raphael Malie
 - raulgundin
@@ -358,6 +370,7 @@ GitHub contributors:
 - Sebastien Monterisi
 - Tanguy JACQUET
 - tchauviere
+- therampagerado
 - Thibaud Chauviere
 - thoma202
 - Thomas
